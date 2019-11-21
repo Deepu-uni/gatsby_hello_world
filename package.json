@@ -14,8 +14,18 @@
   },
   "dependencies": {
     "gatsby": "^2.17.6",
+    "gatsby-plugin-client-side-redirect": "0.0.2",
+    "gatsby-plugin-drupal-comments": "^1.0.5",
+    "gatsby-plugin-htaccess": "^1.2.2",
+    "gatsby-plugin-meta-redirect": "^1.1.1",
+    "gatsby-plugin-typography": "^2.3.16",
+    "gatsby-redirect-from": "^0.2.1",
+    "gatsby-source-drupal": "^3.3.3",
     "react": "^16.11.0",
-    "react-dom": "^16.11.0"
+    "react-dom": "^16.11.0",
+    "react-typography": "^0.16.19",
+    "typography": "^0.16.19",
+    "typography-theme-fairy-gates": "^0.16.19"
   },
   "devDependencies": {
     "prettier": "^1.18.2"
